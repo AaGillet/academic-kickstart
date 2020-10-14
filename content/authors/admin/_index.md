@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests lie in understanding the relationship between the morphology, kinematics, ecology and evolutionary history of large aquatic vertebrates with an emphasis on cetaceans. I thrive at applying multidisciplinary approaches to solve exciting biological questions, relying on a variety of methods such as data collection on museum specimens, dissections, 3D imaging, video analysis, numerical modelling, and phylogenetic comparative methods.
+My research interests lie into understanding the relationship between the morphology, kinematics, ecology and evolutionary history of large aquatic vertebrates with an emphasis on cetaceans. I thrive at applying multidisciplinary approaches to solve exciting biological questions, relying on a variety of methods such as data collection on museum specimens, dissections, 3D imaging, video analysis, numerical modelling, and phylogenetic comparative methods.

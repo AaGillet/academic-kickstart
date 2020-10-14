@@ -3,7 +3,7 @@
 
 title: "New paper on cetacean backbone ecomorphology and evolution"
 subtitle: ""
-summary: ""
+summary: "The first chapter of my PhD has been recently published in the journal *Proceedings of the Royal Society B: Biological Sciences*!"
 #authors: []
 tags: ["Papers"]
 categories: []

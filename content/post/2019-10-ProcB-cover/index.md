@@ -3,12 +3,12 @@
 
 title: "We make the cover!"
 subtitle: ""
-summary: ""
+summary: "The latest issue of *Proceedings of the Royal Society B: Biological Sciences* features my picture related to our upcoming publication!"
 authors: []
 tags: []
 categories: []
 date: 2019-11-20T18:37:29+02:00
-lastmod: 2020-11-20T18:37:29+02:00
+lastmod: 2019-11-20T18:37:29+02:00
 featured: false
 draft: false
 
@@ -19,6 +19,7 @@ image:
   caption: "Cover of Proceedings of the Royal Society B, Volume 286, Issue 1915"
   focal_point: ""
   preview_only: false
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

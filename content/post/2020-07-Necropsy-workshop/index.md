@@ -3,7 +3,7 @@
 
 title: "14th Marine Mammal Necropsy Workshop"
 subtitle: ""
-summary: ""
+summary: "Virtual workshop at the University of Liège"
 authors: []
 tags: []
 categories: []
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+On the 10th of July, the 14th Marine Mammal Necropsy Workshop organized by the University of Liège, the Polytechnic University of Catalonia and the University of La Rochelle was held at the University of Liège. Given the pandemic situation, the workshop was given online.
+During this one-day virtual workshop, participants learned about marine mammals necropsies protocols, impacts of acoustic pollution, inner ear extraction protocols and use of postmortem data to investigate cetacean biomechanics.
