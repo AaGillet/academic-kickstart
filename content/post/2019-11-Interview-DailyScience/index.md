@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "14th Marine Mammal Necropsy Workshop"  
+title: "Interview for the Daily Science"  
 subtitle: ""
-summary: "Virtual workshop at the University of Liège"
+summary: "Press article about our *Proceedings B* paper on cetacean vertebral morphology"
 authors: []
 tags: []
 categories: []
@@ -27,5 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-On the 10th of July, the 14th Marine Mammal Necropsy Workshop organized by the University of Liège, the Polytechnic University of Catalonia and the University of La Rochelle was held at the University of Liège. Given the pandemic situation, the workshop was given online.
-During this one-day virtual workshop, participants learned about marine mammals necropsies protocols, impacts of acoustic pollution, inner ear extraction protocols and use of postmortem data to investigate cetacean biomechanics.
+The Belgian journal *Daily Science* interviewed me and wrote an article about our recent article published in the *Proceedings of the Royal Society B*.
+
+You can read the full interview (in French) on their website: https://dailyscience.be/27/11/2019/les-cetaces-de-petite-taille-ont-casse-les-codes-ancestraux/
+
+Our project was also featured on the University of Liège website.
+The article (in English) is available here: https://www.morfonct.uliege.be/cms/c_5387677/en/skeletons-valuable-clues-to-understanding-the-adaptation-of-marine-mammals-to-their-environment
