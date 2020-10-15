@@ -5,7 +5,7 @@ title: "Interview for the Daily Science"
 subtitle: ""
 summary: "Press article about our *Proceedings B* paper on cetacean vertebral morphology"
 authors: []
-tags: []
+tags: ["Recent", "Media"]
 categories: []
 date: 2020-07-10T17:27:48+02:00
 lastmod: 2020-07-10T17:27:48+02:00
