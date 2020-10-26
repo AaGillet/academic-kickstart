@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
 #title = "Academic Kickstart"
 #subtitle = ""
@@ -29,10 +29,10 @@ weight = 15  # Order that this section will appear.
   #gradient_end = "ForestGreen"
   
   # Background image.
-   image = "snapshot.jpg"  # Name of image in `static/img/`.
-   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "snapshot.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
@@ -50,3 +50,4 @@ weight = 15  # Order that this section will appear.
  css_class = ""
 +++
 
+<a class="twitter-timeline" data-width="500" data-height="600" data-theme="light" href="https://twitter.com/Amand_Gillet?ref_src=twsrc%5Etfw">Tweets by Amand_Gillet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

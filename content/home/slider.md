@@ -7,11 +7,11 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "400px"
+height = "450px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -23,7 +23,7 @@ height = "400px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "snapshot.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "snapshot - Copie.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -34,21 +34,21 @@ height = "400px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
-#[[item]]
+[[item]]
 #  title = "Left"
 #  content = "I am left aligned :smile:"
-#  align = "left"
+  align = "center"
 
 #  overlay_color = "#555"  # An HTML color value.
-#  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "DSC_1567 - Copie - copyright.JPG"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-#[[item]]
+[[item]]
 #  title = "Right"
 #  content = "I am right aligned :smile:"
-#  align = "right"
+  align = "center"
 
-#  overlay_color = "#333"  # An HTML color value.
-#  overlay_img = ""  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "Skeletons-sliders-2-compressed.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
