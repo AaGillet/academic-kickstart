@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Peer-reviewed publications
 
 # View.
 #   1 = List

@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Cetaceans represent the most diverse clade of extant marine tetrapods. Although the restructuring of oceans could have contributed to their diversity, other factors might also be involved. Similar to ichthyosaurs and sharks, variation of morphological traits could have promoted the colonization of new ecological niches and supported their diversification. By combining morphological data describing the axial skeleton of 73 cetacean species with phylogenetic comparative methods, we demonstrate that the vertebral morphology of cetaceans is associated with their habitat. All riverine and coastal species possess a small body size, lengthened vertebrae and a low vertebral count compared with open ocean species. Extant cetaceans have followed two distinct evolutionary pathways relative to their ecology. Whereas most offshore species such as baleen whales evolved towards an increased body size while retaining a low vertebral count, small oceanic dolphins underwent deep modifications of their axial skeleton with an extremely high number of short vertebrae. Our comparative analyses provide evidence these vertebral modifications have potentially operated as key innovations. These novelties contributed to their explosive radiation, resulting in an efficient swimming style that provides energetic advantages to small-sized species."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Proceedings of the Royal Society B: Biological Sciences"
 
 tags: []
 categories: []

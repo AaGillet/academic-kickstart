@@ -20,8 +20,20 @@
 
 [[main]]
   name = "Publications"
-  url = "publication"
+  url = ""
   weight = 40
+
+[[main]]
+  name = "Peer-reviewed papers"
+  url = "publication"
+  parent = "Publications"
+  weight = 41
+
+[[main]]
+  name = "Conferences"
+  url = "talk"
+  parent = "Publications"
+  weight = 42
 
 [[main]]
   name = "Contact"
