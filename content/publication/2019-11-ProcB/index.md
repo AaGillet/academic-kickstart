@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Divergent evolutionary morphology of the axial skeleton as a potential key innovation in modern cetaceans"
-authors: ["Amandine Gillet, Bruno Frédérich, Eric Parmentier"]
+authors: ["Gillet A., Frédérich B., Parmentier E."]
 date: 2019-11-27T16:13:24+02:00
 doi: "https://doi.org/10.1098/rspb.2019.1771"
 

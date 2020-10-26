@@ -13,9 +13,9 @@ superuser: true
 #role: Research associate
 
 # Organizations/Affiliations
-organizations:
-- name: Liège University
-  url: ""
+#organizations:
+#- name: Liège University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

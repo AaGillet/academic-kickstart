@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Amandine Gillet, Bruno Frédérich, Eric Parmentier"]
+authors: ["Gillet A., Frédérich B., Parmentier E."]
 tags: []
 
 # Is this a featured talk? (true/false)

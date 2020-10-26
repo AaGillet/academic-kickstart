@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD Student"
+  title = "FRS-F.N.R.S Research fellow"
   company = "Laboratory of functional and evolutionary morphology - University of Liège"
   company_url = ""
   location = "Liège, Belgium"
   date_start = "2015-10-01"
   date_end = "2020-05-20"
   description = """
-  Thesis title: *Ecomorphology and biomechanics of cetacean backbone in an evolutionary context*
+  PhD thesis title: *Ecomorphology and biomechanics of cetacean backbone in an evolutionary context*
 
   Supervisor: Prof. Eric Parmentier (Univeristy of Liège)
 
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_start = "2014-02-15"
   date_end = "2014-07-20"
   description = """
-  Thesis title: *Comparative morphology of cephalic cartilage and statocysts of Mediterranean cephalopods using magnetic resonance imaging (MRI)*
+  Master thesis title: *Comparative morphology of cephalic cartilage and statocysts of Mediterranean cephalopods using magnetic resonance imaging (MRI)*
 
   Supervisors: Prof. Michel André (Polytechnic University of Catalonia) & Dr. Thierry Jauniaux (University of Liège)
 
