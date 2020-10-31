@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "FRS-F.N.R.S Research fellow"
+  title = "F.R.S.-FNRS Research fellow"
   company = "Laboratory of functional and evolutionary morphology - University of Liège"
   company_url = ""
   location = "Liège, Belgium"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   PhD thesis title: *Ecomorphology and biomechanics of cetacean backbone in an evolutionary context*
 
-  Supervisor: Prof. Eric Parmentier (Univeristy of Liège)
+  Supervisor: Prof. Eric Parmentier (University of Liège)
 
   """
 
